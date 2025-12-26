@@ -1,12 +1,17 @@
-💫 Hi 👋, I'm Malti Pathak
-Java Backend Developer | Spring Boot | MySQL | RESTful APIs
-Pune, India 🇮🇳
-✉️ pathakmalti7@gmail.com
-🔗 linkedin.com/in/malti-pathak | github.com/Maltipat | leetcode.com/u/Malti7
-🔭 I’m currently working on Java Spring Boot projects (including a SaaS expense tracker with AWS deployment)
-🌱 Open to collaborating on real-world backend systems, Spring Boot applications, or scalable RESTful APIs
-📫 Reach me at pathakmalti7@gmail.com
-⚡ Fun fact: Optimized a production API to reduce response time by 30% using query indexing and caching
+# 💫 Hi 👋, I'm Malti Pathak
+
+**Java Backend Developer | Spring Boot | MySQL | RESTful APIs**
+
+Email Me 👉 ✉️ **pathakmalti7@gmail.com** . 😊😊
+
+- 🔭 **I’m currently working on:** I’m currently working on Java Spring Boot projects (including a SaaS expense tracker with AWS deployment)
+
+- 🌱 **I’m currently learning:** Enter your tech here
+
+- 👯 **I’m looking to collaborate on:**real-world backend systems, Spring Boot applications, or scalable RESTful APIs
+
+- ⚡ **Fun fact:** Optimized a production API to reduce response time by 30% using query indexing and caching
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/malti-pathak) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PathakMalt1554) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pathakmalti7@gmail.com) 

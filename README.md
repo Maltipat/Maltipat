@@ -6,7 +6,7 @@ Email Me 👉 ✉️ **pathakmalti7@gmail.com** . 😊😊
 
 - 🔭 **I’m currently working on:** I’m currently working on Java Spring Boot projects (including a SaaS expense tracker with AWS deployment)
 
-- 🌱 **I’m currently learning:** Enter your tech here
+- 🌱 **I’m currently learning:** Node.js,AI/ML
 
 - 👯 **I’m looking to collaborate on:**real-world backend systems, Spring Boot applications, or scalable RESTful APIs
 

@@ -1,12 +1,13 @@
 <div align="center">
 
-# Hi there, I'm Malti Pathak 👋
+# Malti Pathak
 
-### 🚀 Backend-Focused Full Stack Developer | Spring Boot Specialist | AI Enthusiast
+### Backend Engineer · Java & Spring Boot · LLM/RAG Systems
 
-
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PathakMalt1554)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malti-pathak/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakmalti7@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Malti7/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PathakMalt1554)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Maltipat&label=Profile%20Views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/Maltipat?label=Followers&style=social)](https://github.com/Maltipat)
@@ -15,106 +16,69 @@
 
 ---
 
-## 💼 About Me
+## About Me
 
-I'm a passionate **Backend Developer** who builds **scalable, production-ready systems** by combining the power of **Java, Spring Boot, and AI**. I specialize in designing **REST APIs**, optimizing database performance, and integrating **AI-driven features** into real-world applications.
+I build **backend systems that talk to AI** — REST APIs, RAG pipelines, and LLM-powered features using **Java, Spring Boot, and Spring AI**. Currently interning at **Betterplace Safety Solutions**, where I ship production APIs integrated with large language models.
 
 ```yaml
-name: Malti Pathak
-role: Backend-Focused Full Stack Developer
-location: India 🇮🇳
-currently_building: SaaS Expense Tracker (Spring Boot + AWS)
-exploring: AI/ML, Semantic Search, Intelligent Systems
-learning: Node.js, System Design, Microservices
-open_to: Backend Roles | Full Stack Roles | AI-Integrated Projects
-fun_fact: "I don't just write code — I architect systems that solve real problems."
+name:               Malti Pathak
+role:               Backend Engineer (MCA — Data Science, MIT ADT University)
+location:           Bengaluru, India 🇮🇳
+currently_building: LLM-powered REST APIs + RAG pipelines @ Betterplace
+exploring:          Vector databases, Semantic Search, Microservices
+learning:           System Design, Node.js, Distributed Architecture
+open_to:            Backend SDE · AI/LLM Roles · Data Engineering
+fun_fact:           "I document my DSA journey publicly on LinkedIn — Day by Day."
 ```
 
-- 🔭 **Currently Building:** A SaaS Expense Tracker with Spring Boot, deployed on AWS
-- 🧠 **Exploring:** AI/ML, Vector Databases, and Semantic Search Systems
-- 🌱 **Learning:** Node.js, Microservices Architecture, and System Design
-- 👯 **Open to Collaborate** on backend systems, scalable APIs, and AI-integrated apps
-- ⚡ **Notable Achievement:** Improved API response time by **30%** through query optimization and caching strategies
+- 🔭 **At Work:** Building AI-integrated APIs with Spring AI and RAG pipelines on real production systems
+- ⚡ **Achievement:** Improved API response time by **30%** at Numetry Technologies via query optimization and caching
+- 📣 **Learning in Public:** Sharing DSA + AI/ML learnings under [#LearningInPublic](https://linkedin.com/in/malti-pathak/) on LinkedIn
+- 🏅 **Certified:** AWS Cloud Practitioner
 
 ---
 
-## 🌟 Featured Project
+## Featured Project
 
 ### 🔍 AI-Powered Semantic Search System
+> *[View Repo →](https://github.com/Maltipat)* — A search engine that understands **intent**, not just keywords
 
-> A next-gen search engine that understands **user intent** — not just keywords.
+| Layer | Tech |
+|---|---|
+| Frontend | React |
+| Backend | Spring Boot · Python |
+| AI | Embeddings · Cosine Similarity |
+| Database | PostgreSQL + pgvector |
 
-<table>
-<tr>
-<td width="60%">
-
-**🔧 Tech Stack:** React • Spring Boot • Python • PostgreSQL (pgvector)
-
-**✨ Key Features:**
-- ⚡ **Vector-based search** using high-dimensional embeddings
-- 🧠 **Context-aware results** powered by cosine similarity
-- 🔗 **Full-stack integration** across React, Spring Boot, and Python
-- 🗄️ **pgvector** for blazing-fast semantic queries
-- 📈 **Scalable architecture** ready for production workloads
-
-**💡 Why It Matters:** Demonstrates real-world expertise in combining **AI engineering with robust backend design** — a critical skill set for modern software roles.
-
-</td>
-<td width="40%" align="center">
-
-```
-🔎 Query
-   ↓
-[ Embedding Model ]
-   ↓
-[ pgvector Search ]
-   ↓
-✨ Smart Results
-```
-
-</td>
-</tr>
-</table>
+**What it does:** Converts user queries into high-dimensional vectors, stores and retrieves them from pgvector, and returns contextually ranked results — bypassing keyword matching entirely.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack
 
-### 👩‍💻 Languages
+### Core (Daily Use)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ☁️ DevOps & Tools
+### AI/ML & Cloud
+![LLM](https://img.shields.io/badge/LLM_Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=for-the-badge&logo=buffer&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -135,82 +99,25 @@ fun_fact: "I don't just write code — I architect systems that solve real probl
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<table>
-<tr>
-<td>☁️</td>
-<td><b>AWS Certified Cloud Practitioner</b> — Validated foundational expertise in AWS services and cloud architecture</td>
-</tr>
-<tr>
-<td>📈</td>
-<td><b>30% Performance Boost</b> — Optimized backend APIs through caching and query tuning in production</td>
-</tr>
-<tr>
-<td>💻</td>
-<td><b>Multiple Production Projects</b> — Designed and shipped full-stack applications with scalable backend architecture</td>
-</tr>
-<tr>
-<td>🤖</td>
-<td><b>AI Integration Experience</b> — Built semantic search using embeddings and vector databases</td>
-</tr>
-</table>
-
----
-
-## 🎯 Current Goals
+## Goals
 
 - [x] Earn AWS Cloud Practitioner Certification
 - [x] Build an AI-integrated full-stack application
-- [ ] Contribute meaningfully to open-source projects
+- [x] Ship production APIs at a real company
+- [ ] Push the Semantic Search project live with a public demo
+- [ ] Contribute to open-source Java or AI tooling
 - [ ] Master system design and distributed architecture
-- [ ] Deploy a production-grade microservices application on AWS
 - [ ] Earn AWS Solutions Architect Associate certification
 
 ---
 
-## 💡 What I Bring to the Table
+## Let's Connect
 
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>🏗️</h3>
-<b>Strong Backend Fundamentals</b><br/>
-<sub>Java, Spring Boot, REST APIs, Database Design</sub>
-</td>
-<td align="center" width="25%">
-<h3>🚀</h3>
-<b>Real-World Experience</b><br/>
-<sub>Production deployments and performance optimization</sub>
-</td>
-<td align="center" width="25%">
-<h3>🧠</h3>
-<b>Problem-Solving Mindset</b><br/>
-<sub>Analytical thinking with system-design awareness</sub>
-</td>
-<td align="center" width="25%">
-<h3>📚</h3>
-<b>Continuous Learner</b><br/>
-<sub>Always exploring emerging tech and best practices</sub>
-</td>
-</tr>
-</table>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-I'm actively seeking **backend developer**, **full-stack developer**, and **AI-integrated software engineering** opportunities. If my profile aligns with what you're looking for, I'd love to chat!
+I'm actively looking for **Backend SDE**, **AI/LLM engineering**, and **data engineering** roles.
 
 [![Email](https://img.shields.io/badge/-pathakmalti7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakmalti7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malti-pathak)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malti-pathak/)
 
-<br/>
+> *"I document everything I learn — because teaching is the best way to understand."*
 
-> *"I don't just write code — I build systems that solve real problems."*
-
-⭐ **From [Maltipat](https://github.com/Maltipat)** — If you find my work interesting, consider giving my repos a star!
-
-</div>
+⭐ If you find my work interesting, a star on my repos goes a long way!

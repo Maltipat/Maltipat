@@ -131,19 +131,27 @@ A backend-powered semantic search engine that retrieves information based on mea
 
 ---
 
-# GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maltipat&theme=tokyonight&show_icons=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maltipat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maltipat&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br>
+</p>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Maltipat&theme=tokyonight&hide_border=true"/>
+<p align="center">
 
-</div>
+<img src="https://streak-stats.demolab.com?user=Maltipat&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Maltipat&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
 
 ---
 

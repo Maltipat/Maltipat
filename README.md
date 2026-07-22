@@ -1,216 +1,148 @@
-<div align="center">
+## 📊 GitHub Activity
 
-# Malti Pathak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Maltipat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-### Backend Engineer | Java • Spring Boot • Distributed Systems • AI Applications
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malti-pathak/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakmalti7@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Malti7/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Maltipat)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Maltipat&label=Profile%20Views&color=0e75b6&style=flat)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maltipat&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
 
 ---
 
-# About Me
+# 🚀 Featured Projects
 
-Backend engineer specializing in building scalable Java applications, RESTful APIs, and AI-powered backend services.
+<table>
+<tr>
+<td width="50%">
 
-My work primarily focuses on designing reliable backend systems using **Java, Spring Boot, PostgreSQL, and Spring AI**, with experience integrating **LLMs, Retrieval-Augmented Generation (RAG), and vector databases** into production workflows.
+### 🔍 Semantic Search Platform
 
-Currently working at **Betterplace Safety Solutions**, building backend services that integrate enterprise applications with Large Language Models.
+Enterprise semantic search engine built with Spring Boot, Python, PostgreSQL, and pgvector.
 
-```yaml
-Role: Backend Engineer
-Location: Bengaluru, India
-
-Primary Stack:
-  - Java
-  - Spring Boot
-  - Spring AI
-  - PostgreSQL
-  - MySQL
-  - Python
-
-Areas of Interest:
-  - Distributed Systems
-  - Microservices
-  - AI Infrastructure
-  - System Design
-  - Cloud Architecture
-```
-
-### Engineering Focus
-
-- Designing scalable REST APIs
-- Building AI-integrated backend platforms
-- Optimizing SQL queries and application performance
-- Implementing Retrieval-Augmented Generation (RAG)
-- Designing semantic search systems using vector embeddings
-- Writing clean, maintainable, production-ready code
-
----
-
-# Featured Project
-
-## Semantic Search Platform
-
-A backend-powered semantic search engine that retrieves information based on meaning instead of exact keyword matching.
-
-### Architecture
-
-| Layer | Technology |
-|--------|------------|
-| Backend | Spring Boot |
-| AI Service | Python |
-| Database | PostgreSQL + pgvector |
-| Search | Vector Embeddings + Cosine Similarity |
-| Frontend | React |
-
-### Highlights
-
-- Generated vector embeddings for documents and user queries
-- Stored embeddings in PostgreSQL using pgvector
-- Implemented semantic similarity search
-- Exposed REST APIs for indexing and retrieval
-- Modular architecture separating AI processing from backend services
-
----
-
-# Technical Skills
-
-## Languages
+**Tech Stack**
 
 - Java
-- Python
-- SQL
-- JavaScript
-
-## Backend
-
 - Spring Boot
-- Spring MVC
-- Spring Data JPA
-- Spring Security
-- Spring AI
-- Hibernate
+- PostgreSQL
+- pgvector
+- Python
 - REST APIs
 
-## Databases
+</td>
 
+<td width="50%">
+
+### 💼 Job Application Tracker API
+
+Secure backend system for managing job applications using JWT authentication and PostgreSQL.
+
+**Tech Stack**
+
+- Spring Boot
+- Spring Security
+- JWT
 - PostgreSQL
-- MySQL
-- MongoDB
-- pgvector
-
-## AI
-
-- Large Language Models
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- Embeddings
-- Semantic Search
-- Vector Databases
-
-## Cloud & DevOps
-
-- AWS
 - Docker
-- Git
-- Maven
 
-## Tools
+</td>
+</tr>
 
-- IntelliJ IDEA
-- Postman
-- GitHub
-- VS Code
+<tr>
+<td width="50%">
 
----
+### ☁️ SaaS Expense Tracker
 
-## 📊 GitHub Analytics
+Cloud-native expense management application with authentication and reporting.
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Maltipat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
-    height="170"
-    alt="GitHub Stats"
-  />
+**Tech Stack**
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maltipat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
+- Java
+- Spring Boot
+- AWS
+- MySQL
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Maltipat&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+</td>
 
-<p align="center">
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=Maltipat&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
-    alt="Top Contributed Repositories"
-  />
-</p>
+<td width="50%">
+
+### 📚 Online Book Store
+
+Complete backend for an e-commerce bookstore with authentication and order management.
+
+**Tech Stack**
+
+- Spring Boot
+- MySQL
+- JPA
+- REST APIs
+
+</td>
+</tr>
+</table>
 
 ---
 
-# Current Focus
+# 🛠 Tech Stack
 
-- Building production-grade backend services
-- Distributed system design
-- AI infrastructure with Spring AI
-- Performance optimization
-- Cloud-native application development
-- Microservice architecture
+### Languages
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# Certifications
+### Backend
 
-- AWS Certified Cloud Practitioner
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
----
+### Database
 
-# Open Source
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-I enjoy building backend infrastructure, experimenting with AI-powered applications, and contributing reusable components to the Java ecosystem.
+### AI & Cloud
 
-Current interests include:
-
-- Spring AI
-- Vector Databases
-- Retrieval-Augmented Generation
-- Backend Performance
-- System Design
-- Developer Tooling
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-# Connect
+## 🎯 Current Focus
 
-I'm interested in opportunities involving:
-
-- Backend Engineering
-- Platform Engineering
-- AI Infrastructure
+- Designing scalable backend systems
+- AI-powered applications with Spring AI
+- Retrieval-Augmented Generation (RAG)
 - Distributed Systems
-- Cloud Engineering
+- Microservices Architecture
+- Performance Optimization
+- System Design
 
-<div align="center">
+---
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakmalti7@gmail.com)
+## 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malti-pathak)
+<p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Maltipat)
+<a href="mailto:pathakmalti7@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://linkedin.com/in/malti-pathak">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Maltipat">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/Malti7/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>

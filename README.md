@@ -2,122 +2,199 @@
 
 # Malti Pathak
 
-### Backend Engineer · Java & Spring Boot · LLM/RAG Systems
+### Backend Engineer | Java • Spring Boot • Distributed Systems • AI Applications
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malti-pathak/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakmalti7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakmalti7@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Malti7/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PathakMalt1554)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Maltipat)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Maltipat&label=Profile%20Views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/Maltipat?label=Followers&style=social)](https://github.com/Maltipat)
 
 </div>
 
 ---
 
-## About Me
+# About Me
 
-I build **backend systems that talk to AI** — REST APIs, RAG pipelines, and LLM-powered features using **Java, Spring Boot, and Spring AI**. Currently interning at **Betterplace Safety Solutions**, where I ship production APIs integrated with large language models.
+Backend engineer specializing in building scalable Java applications, RESTful APIs, and AI-powered backend services.
+
+My work primarily focuses on designing reliable backend systems using **Java, Spring Boot, PostgreSQL, and Spring AI**, with experience integrating **LLMs, Retrieval-Augmented Generation (RAG), and vector databases** into production workflows.
+
+Currently working at **Betterplace Safety Solutions**, building backend services that integrate enterprise applications with Large Language Models.
 
 ```yaml
-name:               Malti Pathak
-role:               Backend Engineer (MCA — Data Science, MIT ADT University)
-location:           Bengaluru, India 🇮🇳
-currently_building: LLM-powered REST APIs + RAG pipelines @ Betterplace
-exploring:          Vector databases, Semantic Search, Microservices
-learning:           System Design, Node.js, Distributed Architecture
-open_to:            Backend SDE · AI/LLM Roles · Data Engineering
-fun_fact:           "I document my DSA journey publicly on LinkedIn — Day by Day."
+Role: Backend Engineer
+Location: Bengaluru, India
+
+Primary Stack:
+  - Java
+  - Spring Boot
+  - Spring AI
+  - PostgreSQL
+  - MySQL
+  - Python
+
+Areas of Interest:
+  - Distributed Systems
+  - Microservices
+  - AI Infrastructure
+  - System Design
+  - Cloud Architecture
 ```
 
-- 🔭 **At Work:** Building AI-integrated APIs with Spring AI and RAG pipelines on real production systems
-- ⚡ **Achievement:** Improved API response time by **30%** at Numetry Technologies via query optimization and caching
-- 📣 **Learning in Public:** Sharing DSA + AI/ML learnings under [#LearningInPublic](https://linkedin.com/in/malti-pathak/) on LinkedIn
-- 🏅 **Certified:** AWS Cloud Practitioner
+### Engineering Focus
+
+- Designing scalable REST APIs
+- Building AI-integrated backend platforms
+- Optimizing SQL queries and application performance
+- Implementing Retrieval-Augmented Generation (RAG)
+- Designing semantic search systems using vector embeddings
+- Writing clean, maintainable, production-ready code
 
 ---
 
-## Featured Project
+# Featured Project
 
-### 🔍 AI-Powered Semantic Search System
-> *[View Repo →](https://github.com/Maltipat)* — A search engine that understands **intent**, not just keywords
+## Semantic Search Platform
 
-| Layer | Tech |
-|---|---|
-| Frontend | React |
-| Backend | Spring Boot · Python |
-| AI | Embeddings · Cosine Similarity |
+A backend-powered semantic search engine that retrieves information based on meaning instead of exact keyword matching.
+
+### Architecture
+
+| Layer | Technology |
+|--------|------------|
+| Backend | Spring Boot |
+| AI Service | Python |
 | Database | PostgreSQL + pgvector |
+| Search | Vector Embeddings + Cosine Similarity |
+| Frontend | React |
 
-**What it does:** Converts user queries into high-dimensional vectors, stores and retrieves them from pgvector, and returns contextually ranked results — bypassing keyword matching entirely.
+### Highlights
 
----
-
-## Tech Stack
-
-### Core (Daily Use)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### AI/ML & Cloud
-![LLM](https://img.shields.io/badge/LLM_Integration-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-7C3AED?style=for-the-badge&logo=buffer&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+- Generated vector embeddings for documents and user queries
+- Stored embeddings in PostgreSQL using pgvector
+- Implemented semantic similarity search
+- Exposed REST APIs for indexing and retrieval
+- Modular architecture separating AI processing from backend services
 
 ---
 
-## GitHub Analytics
+# Technical Skills
+
+## Languages
+
+- Java
+- Python
+- SQL
+- JavaScript
+
+## Backend
+
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+- Spring Security
+- Spring AI
+- Hibernate
+- REST APIs
+
+## Databases
+
+- PostgreSQL
+- MySQL
+- MongoDB
+- pgvector
+
+## AI
+
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Embeddings
+- Semantic Search
+- Vector Databases
+
+## Cloud & DevOps
+
+- AWS
+- Docker
+- Git
+- Maven
+
+## Tools
+
+- IntelliJ IDEA
+- Postman
+- GitHub
+- VS Code
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/Maltipat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maltipat&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maltipat&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maltipat&theme=tokyonight&show_icons=true&hide_border=true"/>
 
-<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maltipat&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Maltipat&theme=tokyonight&hide_border=true" />
+<br>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Maltipat&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Maltipat&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## Goals
+# Current Focus
 
-- [x] Earn AWS Cloud Practitioner Certification
-- [x] Build an AI-integrated full-stack application
-- [x] Ship production APIs at a real company
-- [ ] Push the Semantic Search project live with a public demo
-- [ ] Contribute to open-source Java or AI tooling
-- [ ] Master system design and distributed architecture
-- [ ] Earn AWS Solutions Architect Associate certification
+- Building production-grade backend services
+- Distributed system design
+- AI infrastructure with Spring AI
+- Performance optimization
+- Cloud-native application development
+- Microservice architecture
 
 ---
 
-## Let's Connect
+# Certifications
 
-I'm actively looking for **Backend SDE**, **AI/LLM engineering**, and **data engineering** roles.
+- AWS Certified Cloud Practitioner
 
-[![Email](https://img.shields.io/badge/-pathakmalti7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakmalti7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malti-pathak/)
+---
 
-> *"I document everything I learn — because teaching is the best way to understand."*
+# Open Source
 
-⭐ If you find my work interesting, a star on my repos goes a long way!
+I enjoy building backend infrastructure, experimenting with AI-powered applications, and contributing reusable components to the Java ecosystem.
+
+Current interests include:
+
+- Spring AI
+- Vector Databases
+- Retrieval-Augmented Generation
+- Backend Performance
+- System Design
+- Developer Tooling
+
+---
+
+# Connect
+
+I'm interested in opportunities involving:
+
+- Backend Engineering
+- Platform Engineering
+- AI Infrastructure
+- Distributed Systems
+- Cloud Engineering
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakmalti7@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malti-pathak)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Maltipat)
+
+</div>

@@ -1,45 +1,61 @@
-&lt;!-- Banner --&gt;
-&lt;div align="center"&gt;
-  &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=200&section=header&text=Malti%20Pathak&fontSize=50&fontAlignY=35&desc=Backend%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20System%20Designer&descAlignY=55&descSize=18&fontColor=ffffff" alt="header" /&gt;
-&lt;/div&gt;
+🛒 Complete order lifecycle & inventory management
 
-&lt;!-- Typing Animation --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems;Crafting+AI-powered+applications;Designing+distributed+microservices;Optimizing+for+performance+%26+scale" alt="Typing SVG" /&gt;
-&lt;/p&gt;
+</td>
+</tr>
+</table>
 
 ---
 
-## 👋 About Me
+## 🛠️ Tech Arsenal
 
-&gt; *"Turning complex problems into elegant, scalable solutions."*
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-I'm a **Backend Engineer** passionate about designing robust systems, exploring AI integrations with **Spring AI**, and building cloud-native applications. Currently focused on **RAG pipelines**, **microservices architecture**, and **distributed systems**.
+### ⚙️ Backend & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+</p>
 
-- 🔭 Building **enterprise semantic search** & **AI-powered platforms**
-- 🌱 Deep diving into **LLMs**, **Vector Databases**, and **System Design**
-- ⚡ Fun fact: I optimize databases for fun 🚀
+### 🗄️ Databases & Storage
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### 🤖 AI & Cloud
+<p>
+  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🎯 Current Focus
 
-&lt;div align="center"&gt;
-  &lt;img src="https://streak-stats.demolab.com?user=Maltipat&theme=tokyonight&hide_border=true&border_radius=12&mode=weekly" alt="GitHub Streak" /&gt;
-  &lt;br/&gt;&lt;br/&gt;
-  &lt;img src="https://github-readme-activity-graph.vercel.app/graph?username=Maltipat&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Contribution Graph" /&gt;
-  &lt;br/&gt;&lt;br/&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=Maltipat&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" height="165" alt="GitHub Stats" /&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maltipat&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="165" alt="Top Languages" /&gt;
-&lt;/div&gt;
+```yaml
+Backend Architecture:
+  - Scalable Microservices Design
+  - Event-Driven Architecture
+  - API Gateway Patterns
 
----
+AI & Data:
+  - Retrieval-Augmented Generation (RAG)
+  - Vector Search & Embeddings
+  - LLM Integration with Spring AI
 
-## 🚀 Featured Projects
-
-&lt;table&gt;
-&lt;tr&gt;
-&lt;td width="50%"&gt;
-
-#### 🔍 Semantic Search Platform
-*Enterprise-grade semantic search with vector embeddings*
+Performance:
+  - System Design at Scale
+  - Caching Strategies & Optimization
+  - Database Query Tuning

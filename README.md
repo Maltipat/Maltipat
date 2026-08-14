@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Engineer;Java+%26+Spring+Boot;AI+Engineering;RAG+%26+Semantic+Search;Distributed+Systems;System+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+Engineer;Java+%26+Spring+Boot;AI+Engineering;RAG+%26+Semantic+Search;Distributed+Systems;System+Design)](https://readme-typing-svg.demolab.com/demo/)
 
 **Building scalable backend systems and AI-powered applications.**
 
@@ -62,10 +62,6 @@ flowchart TD
 <br/>
 
 ## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maltipat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="70%"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Maltipat&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
